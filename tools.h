@@ -1,7 +1,7 @@
 // *Author: Daokun Hu
 // *E-mail: Daokunhu@gmail.com
 
-// #define USE_PMEM
+#define USE_PMEM
 
 #include <errno.h>
 #include <fcntl.h>
