@@ -11,6 +11,7 @@
 #include <unistd.h>
 
 #include <array>
+#include <atomic>
 #include <cassert>
 #include <chrono>
 #include <cinttypes>
